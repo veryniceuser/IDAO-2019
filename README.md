@@ -1,5 +1,3 @@
-# IDAO
-IDAO solution
 
 3 files, that were used to generate final submission to track B:
 
